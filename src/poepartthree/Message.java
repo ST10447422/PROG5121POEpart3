@@ -325,7 +325,7 @@ class Message {               // start of message class
         display.append("Recipient Phone: ").append(recipientPhone.get(longestIndex)).append("\n");
 
         JOptionPane.showMessageDialog(null, display.toString());
-        JOptionPane.showMessageDialog(null, "Longest message displayed successfully.");
+        JOptionPane.showMessageDialog(null, "Longest message displayed successfully, Thank you.");
     
     
     }  // End of displayLongestMessage method
