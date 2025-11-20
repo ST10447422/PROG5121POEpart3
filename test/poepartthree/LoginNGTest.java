@@ -69,6 +69,7 @@ public class LoginNGTest {
         System.out.println("loginUser");
         Login instance = new Login();
         instance.loginUser();
+        //TEST
        
     }
     
